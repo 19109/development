@@ -1,0 +1,71 @@
+body
+{ 
+    margin: 0;
+}
+
+.header-content a
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+/* header-area end here */
+.slider-area img
+{
+    height: 500px;
+}
+/* slider-area end here */
+i
+{
+    font-size: 50px;
+    text-align: center;
+
+}
+.card
+{
+    height: 400px;
+
+    
+}
+.card:hover{
+   transform:scalex(1.005);
+   
+
+}
+/* service-area end here */
+.skill
+{
+    background-color: #F5FFFA;
+}
+/* skill-area end here */
+.team-member img
+{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin-left: 50px;
+
+
+}
+.team-member h4
+{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: indigo;
+    color: white;
+    padding:10px;
+}
+.team-member p
+{
+    text-align:justify;
+}
+.team-member h5
+{
+    text-align: center;
+}
+.team-area
+{
+    background-color:#F8F8FF;
+}
+
+/* team-area end here */
